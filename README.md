@@ -8,8 +8,8 @@ I am a Computer Science graduate and adept Front-End Developer focusing on creat
 I'm always open to connecting with fellow developers, discussing new ideas, and collaborating on exciting projects. You can reach out to me through the following channels:
 
 Email: m.etemadi92@gmail.com <br>
-LinkedIn: (http://linkedin.com/in/m-etemadi/) <br>
-Personal Website: (https://m-etemadi.ir/)
+LinkedIn: http://linkedin.com/in/m-etemadi/ <br>
+Personal Website: https://m-etemadi.ir/
 
 Feel free to connect with me on LinkedIn. I'm looking forward to getting to know you and exploring new opportunities together!
 
