@@ -9,7 +9,7 @@ I'm always open to connecting with fellow developers, discussing new ideas, and 
 
 Email: m.etemadi92@gmail.com <br>
 LinkedIn: http://linkedin.com/in/m-etemadi/ <br>
-Personal Website: https://m-etemadi.ir/
+Personal Website: https://m-etemadi.me/
 
 Feel free to connect with me on LinkedIn. I'm looking forward to getting to know you and exploring new opportunities together!
 
