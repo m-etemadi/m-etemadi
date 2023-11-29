@@ -5,7 +5,7 @@ My name is Mohammad, a passionate frontend developer. Welcome to my GitHub repos
 I'm always open to connecting with fellow developers, discussing new ideas, and collaborating on exciting projects. You can reach out to me through the following channels:
 
 Email: m.etemadi92@gmail.com <br>
-LinkedIn: http://linkedin.com/in/m-etemadi/ <br>
+LinkedIn: https://linkedin.com/in/m-etemadi/ <br>
 Personal Website: https://m-etemadi.me/
 
 Feel free to connect with me on LinkedIn. I'm looking forward to getting to know you and exploring new opportunities together!
